@@ -69,7 +69,7 @@
         </div>
         <div class="flex items-center space-x-2 bg-slate-800/80 px-3 py-1.5 rounded-full border border-slate-700/50">
             <i class="fa-solid fa-graduation-cap text-indigo-400 text-sm"></i>
-            <span class="text-xs font-semibold text-slate-300">Tin Học Bài 3 & 4</span>
+            <span class="text-xs font-semibold text-slate-300">Tin Học Bài 3</span>
         </div>
     </header>
 
